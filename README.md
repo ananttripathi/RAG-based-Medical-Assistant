@@ -43,7 +43,8 @@ pip install -r requirements.txt
 3. Run all cells. The first run will download the Mistral 7B GGUF model and build the ChromaDB index.
 
 **View the notebook as HTML:**  
-Open `RAG-Medical-Assistant.html` in any modern browser (no server required).
+- **On GitHub:** [Preview rendered HTML](https://htmlpreview.github.io/?https://github.com/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG-Medical-Assistant.html)  
+- **Locally:** Open `RAG-Medical-Assistant.html` in any modern browser (no server required).
 
 ---
 
