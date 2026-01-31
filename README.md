@@ -2,7 +2,8 @@
 
 **RAG-based medical Q&A over the Merck Manual (19th ed.) — ChromaDB, GTE-large embeddings, Mistral 7B (GGUF). Local, privacy-first, GPU-accelerated.**
 
-[![Repository](https://img.shields.io/badge/GitHub-RAG--Medical--Assistant-blue)](https://github.com/ananttripathi/RAG-based-Medical-Assistant)
+[![Repository](https://img.shields.io/badge/GitHub-RAG--Medical--Assistant-blue)](https://github.com/ananttripathi/RAG-based-Medical-Assistant)  
+**[▶ View full notebook (rendered HTML)](https://htmlpreview.github.io/?https://github.com/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG-Medical-Assistant.html)** — opens the entire notebook in your browser (GitHub README cannot embed HTML; this link shows the full report).
 
 ---
 
@@ -42,9 +43,7 @@ pip install -r requirements.txt
 2. Set `merck_pdf_path` to the path of your Merck Manual PDF (or use the Google Drive setup in the notebook).
 3. Run all cells. The first run will download the Mistral 7B GGUF model and build the ChromaDB index.
 
-**View the notebook as HTML:**  
-- **On GitHub:** [Preview rendered HTML](https://htmlpreview.github.io/?https://github.com/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG-Medical-Assistant.html)  
-- **Locally:** Open `RAG-Medical-Assistant.html` in any modern browser (no server required).
+**View the notebook:** Use the **[View full notebook](https://htmlpreview.github.io/?https://github.com/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG-Medical-Assistant.html)** link at the top, or open `RAG-Medical-Assistant.html` locally in a browser.
 
 ---
 
