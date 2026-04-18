@@ -2,8 +2,18 @@
 
 **RAG-based medical Q&A over the Merck Manual (19th ed.) — ChromaDB, GTE-large embeddings, Mistral 7B (GGUF). Local, privacy-first, GPU-accelerated.**
 
-[![Repository](https://img.shields.io/badge/GitHub-RAG--Medical--Assistant-blue)](https://github.com/ananttripathi/RAG-based-Medical-Assistant)  
-**[▶ View full notebook (rendered HTML)](https://htmlpreview.github.io/?https://github.com/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG-Medical-Assistant.html)** — opens the entire notebook in your browser (GitHub README cannot embed HTML; this link shows the full report).
+[![Repository](https://img.shields.io/badge/GitHub-RAG--Medical--Assistant-blue)](https://github.com/ananttripathi/RAG-based-Medical-Assistant)
+[![View Notebook](https://img.shields.io/badge/Notebook-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG_medical_assistant.ipynb)
+[![HTML Preview](https://img.shields.io/badge/Preview-HTML_Render-green)](https://htmlpreview.github.io/?https://github.com/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG-Medical-Assistant.html)
+
+## 🔍 Live Preview
+
+| View | Link |
+|------|------|
+| 📓 Interactive Notebook (nbviewer) | [Open on nbviewer](https://nbviewer.org/github/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG_medical_assistant.ipynb) |
+| 🌐 Full HTML Render | [Open HTML preview](https://htmlpreview.github.io/?https://github.com/ananttripathi/RAG-based-Medical-Assistant/blob/main/RAG-Medical-Assistant.html) |
+
+---
 
 ---
 
